@@ -3,7 +3,7 @@
  
  
  # System Architecture
- - Monolithic 3-tier MVC architecture
+ - 3-tier MVC architecture
  - Front End Framework - ReactJS
  - Backend Framework - Spring Framework (Java), Hibernate, Lombok, RESTApi
  - Database - MySQL RDBMS 
